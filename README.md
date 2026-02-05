@@ -87,6 +87,10 @@ To get an Akave wallet address and add the chain to MetaMask:
 
 You can check your transactions on the [Akave Blockchain Explorer](https://explorer.akave.ai)
 
+## Documentation
+
+- Overview: [docs/overview.md](docs/overview.md)
+
 ## Usage
 
 ### IPC API Usage (Blockchain-based, Recommended)
@@ -256,6 +260,14 @@ pip install -e .
 ```bash
 pytest
 ```
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Security
+
+See [SECURITY.md](SECURITY.md).
 
 ## Node Address
 
